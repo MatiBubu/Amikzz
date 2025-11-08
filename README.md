@@ -3,7 +3,7 @@
 <p align="left">
   I'm <b>Amika Subasinghe</b>, a passionate <b>Full-Stack Developer</b> from Sri Lanka 🌏.
 </p>
-
+Hi Amika, we became friends then again we were seperated by ur parants, please when ur at uni, or sees this, please reply or call me, Thanks
 ---
 
 ## 🚀 About Me
