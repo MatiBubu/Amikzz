@@ -4,7 +4,7 @@
   I'm <b>Amika Subasinghe</b>, a passionate <b>Full-Stack Developer</b> from Sri Lanka 🌏.
 </p>
 
----
+---Hi Please reply bcak to me, we were friends
 
 ## 🚀 About Me
 
